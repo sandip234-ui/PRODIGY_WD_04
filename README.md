@@ -71,9 +71,9 @@ I am a **B.Tech student** entering my 5th semester, passionate about **web devel
 
 ## 📬 Contact
 - **Name:** Sandip Biswal
-- **Email:** your-email@example.com
+- **Email:** sandipbiswal839@gmail.com
 - **GitHub:** [sandip234-ui](https://github.com/sandip234-ui)
-- **LinkedIn:** [your-username](https://www.linkedin.com/in/sandip-biswal-728a7a291/)
+- **LinkedIn:** [Sandip Biswal](https://www.linkedin.com/in/sandip-biswal-728a7a291/)
 
 ---
 
