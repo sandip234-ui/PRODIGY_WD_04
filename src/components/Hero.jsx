@@ -12,10 +12,7 @@ const Hero = () => {
         const typed = new Typed(typedRef.current, {
             strings: [
                 "Full Stack Developer",
-                "Web Developer",
-                "Front-end Developer",
-                "Back-end Developer",
-                "Cyber Security Enthusiast"
+                "AI/Ml Learner",
             ],
             typeSpeed: 100,
             backSpeed: 50,
